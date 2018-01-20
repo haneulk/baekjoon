@@ -39,4 +39,4 @@ int main(void) {
 	printf("%.2f\n", avg);
 
 	return 0;
-}
+} 
